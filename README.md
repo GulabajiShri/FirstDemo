@@ -1,1 +1,2 @@
-This is my frist Repository.
+Name: Riddle Game using java 
+This is a simple Java-based console game that challenges the user with three fun riddles. It's designed as a basic beginner-friendly project to practice core Java concepts such as conditionals, loops, and user input. The game presents one riddle at a time, takes the user's answer, and checks for correctness. It's a great starting point for anyone learning Java and looking to build small interactive applications.
